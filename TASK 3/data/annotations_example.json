@@ -1,0 +1,17 @@
+[
+  {
+    "image": "example1.jpg",
+    "captions": [
+      "a brown dog running through a grassy field",
+      "a dog sprints across the grass",
+      "a brown dog is playing outside"
+    ]
+  },
+  {
+    "image": "example2.jpg",
+    "captions": [
+      "a plate of pasta with tomato sauce and basil",
+      "spaghetti topped with red sauce on a white plate"
+    ]
+  }
+]
